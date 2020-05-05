@@ -1,0 +1,17 @@
+.login_form {
+  margin-top: 15%;
+  padding: 40px;
+  border: 1px #636363 solid;
+  border-radius: 5px;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 100px;
+}
+
+span {
+  font-weight: bolder;
+  color: #403835;
+  opacity: .5;
+}

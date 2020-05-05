@@ -1,0 +1,7 @@
+.navbar-brand {
+  margin-right: 3rem;
+}
+
+nav.navbar.navbar-expand-lg.navbar-dark.bg-primary {
+  border-radius: 5px;
+}
